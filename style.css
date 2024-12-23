@@ -22,7 +22,7 @@ h1 {
     flex-direction: column;
     background-color: #00ff00;
     width: 1500px;
-    height: 2750px;
+    height: auto;
     margin: auto;
     font-size: 1.5em;
 }
