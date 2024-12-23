@@ -18,6 +18,8 @@ h1 {
 }
 
 .main {
+    display: flex;
+    flex-direction: column;
     background-color: #00ff00;
     width: 1500px;
     height: 2750px;
